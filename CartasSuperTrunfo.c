@@ -6,11 +6,11 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
-int main() {
-
-    #include <stdio.h>
+  
 
 int main() {
+
+     #include <stdio.h>
     // Variáveis para armazenar os dados da primeira carta
     char estado1;
     char codigo1[4];
