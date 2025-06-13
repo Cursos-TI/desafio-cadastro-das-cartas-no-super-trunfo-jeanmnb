@@ -17,7 +17,7 @@ int main() {
     char nome_estado1[50];
     int populacao1;
     float area1, pib1;
-    int pontosTuristicos1;
+    int pontosTuristicos1;    
 
     // Variáveis para armazenar os dados da segunda carta
     char estado2;
@@ -80,6 +80,8 @@ int main() {
     printf("Área: %.2f km²\n", area2);
     printf("PIB: %.2f bilhões de reais\n", pib2);
     printf("Número de Pontos Turísticos: %d\n", pontosTuristicos2);
+
+    
 
     return 0;
 }
